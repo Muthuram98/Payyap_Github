@@ -1,0 +1,15 @@
+export const EndToEnd = {
+  register: "register 1",
+  productName: "Kadai Paneer",
+  productVisibility: "Catalog",
+  unit: "Kg",
+  sellingPrice: "250",
+  purchasePrice: "150",
+  vatSale: "Export/Befreit (0 %)",
+  vatPurchase: "Normalsatz (8.1 %)",
+  stock: "50",
+  description: "Delicious grilled salmon with herbs.",
+  sellQuantity: 2,
+  start_Sale_Button_Color: "steelblue",
+  Sign_in_Button_Color: "cadetblue",
+};
