@@ -10,5 +10,5 @@ export const Negative =
         sku: "111",
         barcode: "123",
         stock: "1",
-        description: "This is a test product description."
+        description: "This is a test product description." 
     }
