@@ -1,6 +1,6 @@
 export const EndToEnd = {
   register: "register 1",
-  productName: "Kadai chicken",
+  productName: "crab 65",
   productVisibility: "Catalog",
   unit: "Kg",
   sellingPrice: "250",
